@@ -1,0 +1,8 @@
+.lang {display: inline-block;}
+.lang:hover {background-color: gray;}
+.lang > img {object-fit: cover; width: 120px; height: 120px;}
+* {font-family: 'Merriweather', serif; text-align: center;}
+body {background-color: #133d82}
+p {color:white; font-size: 20px;}
+h2 {color: #bf2318; font-size: 30px;}
+h3 {font-size: 25px;}
